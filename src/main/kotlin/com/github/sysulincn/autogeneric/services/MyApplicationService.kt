@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sysulincn.autogeneric.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sysulincn.autogeneric.MyBundle
 
 class MyApplicationService {
 
